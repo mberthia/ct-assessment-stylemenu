@@ -9,6 +9,7 @@ body {
   background-image: url("../images/map-bg.jpg");
   font-family: "Lato";
   font-size: 18px;
+  background-size: cover;
 }
 
 nav {
